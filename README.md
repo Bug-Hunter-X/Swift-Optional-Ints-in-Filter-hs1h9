@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift when using the filter method with Ints. The original code incorrectly handles the return type.  The solution provides a corrected version using optional binding for safer handling.
